@@ -1,7 +1,7 @@
 # predicting_demographics
 Are BLS job descriptions predictive of workforce demographics?
 
-This project will use text, numeric and image data from the **Bureau of Labor Statistics (BLS)** to predict the key demographics of a workforce (i.e. sex, race, age) based on ground truth labels obtained from the Labor Force Statistics from the Current Population Survey which is a monthly survey of households conducted for the BLS by the Bureau of Census.  We will use a detailed main dataset called the **Occupational Outlook Handbook (OOH)** and a supplementary data set called **Data for Occupations Not Covered in Detail** which does not include any text or image data. From this supplementary data set we will extract only the median annual wage and typical entry-level education.
+This project will use text, numeric and image data from the **Bureau of Labor Statistics (BLS)** to predict the key demographics of a workforce (i.e. sex, race, age) based on ground truth labels obtained from the Labor Force Statistics from the **Current Population Survey** which is a monthly survey of households conducted for the BLS by the Bureau of Census.  We will use a detailed main dataset called the **Occupational Outlook Handbook (OOH)** and a supplementary data set called **Data for Occupations Not Covered in Detail** which does not include any text or image data. From this supplementary data set we will extract only the median annual wage and typical entry-level education.
 
 As a concrete example of the text data that we will be using, this is an excerpt from the OOH job description for **Home Health and Personal Care Aides**:
 
