@@ -9,7 +9,7 @@ As a concrete example of the text, numeric and image data that we will be using,
 
 <img width="1009" alt="Screen Shot 2021-08-23 at 6 37 18 PM" src="https://user-images.githubusercontent.com/75413805/130541587-4944faed-d62f-4501-93cc-94a250734b34.png">
 
-<img width="920" alt="Screen Shot 2021-08-23 at 6 38 55 PM" src="https://user-images.githubusercontent.com/75413805/130541713-8850b63d-c0b9-4bd7-a0d6-746d7016456c.png">
+<img width="945" alt="Screen Shot 2021-08-23 at 6 40 08 PM" src="https://user-images.githubusercontent.com/75413805/130541825-ce78cc72-826e-4ac1-abd0-c555668f6c91.png">
 
 To predict the age, sex and racial compostion of an occupation, since we are dealing with text, image and numeric data, we intend to use a neural network and compare the performance of several models:
 
