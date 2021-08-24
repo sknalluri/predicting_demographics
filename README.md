@@ -13,11 +13,11 @@ As a concrete example of the text, numeric and image data that we will be using,
 
 To predict the age, sex and racial compostion of an occupation, since we are dealing with text, image and numeric data, we intend to use a neural network and compare the performance of several models:
 
-1. Image only: Image objects will be detected and converted to a Bag of Words (BOW) using a [TensorFlow Hub Object Detection Module on Google Colab](https://www.tensorflow.org/hub/tutorials/object_detection) that will be used as input to a Multi-Layer Perceptron (MLP) to predict demographic targets 
-2. Text only: Long Short-Term Memory (LSTM) model
-3. Numeric only: Multi-Layer Perceptron
-4. Text, Numeric:	LSTM + MLP
-5. Text, Numeric, Image: LSTM + MLP + MLP
+1. Image only: Image objects will be detected and converted to a Bag of Words (BOW) using a [TensorFlow Hub Object Detection Module on Google Colab](https://www.tensorflow.org/hub/tutorials/object_detection) that will be used as input to a **Multi-Layer Perceptron **(MLP) to predict demographic targets 
+2. Text only: **Long Short-Term Memory (LSTM)** model
+3. Numeric only: **MLP**
+4. Text, Numeric:	**LSTM + MLP**
+5. Text, Numeric, Image: **LSTM + MLP + MLP**
 
 If we are able to predict the demographics of an occupation based soley on the words, numbers and images used to describe that occupation, this implies that the descriptions contain biases that could uncover the source of demographic imbalance that may be reinforcing stereotypes and unintentionally influencing labor market supply (i.e. employers) and demand (i.e. job seekers). 
 
