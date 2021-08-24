@@ -7,7 +7,7 @@ To assist the government in this worthy endeavor, this project will use text, nu
 
 As a concrete example of the text, numeric and image data that we will be using, below are a captioned image, summary statistics, and an excerpt from an OOH job description for [Home Health and Personal Care Aides](https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm):
 
-“_Detail oriented. Home health and personal care aides must adhere to specific rules and protocols to help care for clients. They must carefully follow instructions, such as how to care for wounds, that they receive from other healthcare workers._”
+<img width="1009" alt="Screen Shot 2021-08-23 at 6 37 18 PM" src="https://user-images.githubusercontent.com/75413805/130541587-4944faed-d62f-4501-93cc-94a250734b34.png">
 
 <img width="610" alt="Screen Shot 2021-08-23 at 6 23 54 PM" src="https://user-images.githubusercontent.com/75413805/130540491-8a1a1746-d1e2-4455-bb21-106cb41c7c8d.png">
 
