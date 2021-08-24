@@ -9,7 +9,7 @@ As a concrete example of the text and image data that we will be using, the foll
 
 “_Detail oriented. Home health and personal care aides must adhere to specific rules and protocols to help care for clients. They must carefully follow instructions, such as how to care for wounds, that they receive from other healthcare workers._”
 
-<img width="347" alt="Screen Shot 2021-08-23 at 6 20 49 PM" src="https://user-images.githubusercontent.com/75413805/130540323-0465a365-f211-46a6-8f1b-6c279cfd2bfc.png">
+<img width="610" alt="Screen Shot 2021-08-23 at 6 23 54 PM" src="https://user-images.githubusercontent.com/75413805/130540491-8a1a1746-d1e2-4455-bb21-106cb41c7c8d.png">
 
 To predict the age, sex and racial compostion of an occupation, since we are dealing with text, image and numeric data, we intend to use a neural network and compare the performance of several models:
 
