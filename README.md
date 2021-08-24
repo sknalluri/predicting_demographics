@@ -19,4 +19,6 @@ To predict the age, sex and racial compostion of an occupation, since we are dea
 4. Text, Numeric:	**LSTM + MLP**
 5. Text, Numeric, Image: **LSTM + MLP + MLP**
 
+While we hope to build a high performance model that can explain a high proportion of variance, it is as or more important for us to be able interpret these results and their implications for the real-life problem we want to address. As such, we intend to use the [Local Interpretable Model-Agnostic Explanations](https://lime-ml.readthedocs.io/en/latest/)(LIME) to assist us in this effort.
+
 Intentional or not, the words, numbers and images used to describe an occupation communicate the prevalent attributes associated with that occupation. If we are able to successfully predict the demographic composition of an occupation based on these associations, then we can help employers and workers to identify and address the underlying factors that explain the demographic dominance and deficiencies of a given workforce, and ultimately advance the cause of equal pay and opportunity. 
