@@ -5,7 +5,7 @@ There are many historical, socioeconomic and cultural reasons why particular occ
 
 To assist the government in this worthy endeavor, this project will use text, numeric and image data from the Bureau of Labor Statistics (BLS) in a supervised learning task to predict the key demographics of a workforce (i.e. sex, race, age) based on ground truth labels obtained from the [Labor Force Statistics from the Current Population Survey](https://www.bls.gov/cps/tables.htm) which is a monthly survey of households conducted for the BLS by the Bureau of Census.  We will use a detailed main dataset called the [Occupational Outlook Handbook](https://www.bls.gov/ooh/)(OOH) and a supplementary data set called [Data for Occupations Not Covered in Detail](https://www.bls.gov/ooh/about/data-for-occupations-not-covered-in-detail.htm) which does not include any text or image data. From this supplementary data set we will extract only the median annual wage and typical entry-level education.
 
-As a concrete example of the text, numeric and image data that we will be using, below are a captioned image, summary statistics, and an excerpt from an OOH job description for [Home Health and Personal Care Aides](https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm):
+As a concrete example of the text, numeric and image data that we will be using, below are captioned images, summary statistics, and an excerpt from the job description for [Home Health and Personal Care Aides](https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm):
 
 <img width="1009" alt="Screen Shot 2021-08-23 at 6 37 18 PM" src="https://user-images.githubusercontent.com/75413805/130541587-4944faed-d62f-4501-93cc-94a250734b34.png">
 
