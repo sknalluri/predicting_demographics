@@ -1,5 +1,5 @@
 # predicting_demographics
-Do BLS job descriptions condtain unintended bias?
+**Do BLS job descriptions condtain unintended bias?**
 
 There are many historical, socioeconomic and cultural reasons why particular occupations skew male or female, black or white, and old or young, not all of which are good ones. Demographic disparity of worker pay and opportunity is a big problem that many are working hard to correct, including the US government through public policy, funding, and its own hiring practices. 
 
