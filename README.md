@@ -19,6 +19,4 @@ To predict the age, sex and racial compostion of an occupation, since we are dea
 4. Text, Numeric:	**LSTM + MLP**
 5. Text, Numeric, Image: **LSTM + MLP + MLP**
 
-If we are able to predict the demographics of an occupation based soley on the words, numbers and images used to describe that occupation, this implies that the descriptions contain biases that could uncover the source of demographic imbalance that may be reinforcing stereotypes and unintentionally influencing labor market supply (i.e. employers) and demand (i.e. job seekers). 
-
 Intentional or not, the words, numbers and images used to describe an occupation communicate the prevalent attributes associated with that occupation. If we are able to successfully predict the demographic composition of an occupation based on these associations, then we can help employers and workers to identify and address the underlying factors that explain the demographic dominance and deficiencies of a given workforce, and ultimately advance the cause of equal pay and opportunity. 
